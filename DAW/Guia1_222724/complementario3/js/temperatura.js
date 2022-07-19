@@ -1,5 +1,5 @@
 function init(){
-    var op = prompt('Ingrese la Temperatura en grados ° Celcius: ', '');
+    var op = prompt('Ingrese Temperatura en grados ° Celcius: ', '');
 
     var operaciones = document.getElementById('result');
 
